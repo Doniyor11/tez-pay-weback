@@ -1,0 +1,47 @@
+//====================================================================================================
+.footer {
+  position: relative;
+  z-index: 2;
+  background-color: #6BD695;
+  padding: 120px 0;
+  @media (max-width:$tablet){
+    padding: 80px 0;
+  }
+  @media (max-width:$mobile){
+     padding: 50px 0; 
+  }
+  &__title {
+    text-align: center;
+    margin-bottom: 48px;
+     @media (max-width:$mobile){
+       margin-bottom: 30px; 
+     }
+  }
+  &__content {
+    position: relative;
+  }
+  &__messages {
+ 
+    @media (max-width:$tablet){
+      display: none;
+    }
+    .item {
+      position: absolute;
+      &.item-01 {
+        bottom: -100px;
+        left: 220px;
+        @media (max-width: 1250px){
+            left: 80px;
+        }
+      }
+      &.item-02 {
+        bottom: -50px;
+        right: 220px;
+        @media (max-width: 1250px){
+          right: 80px;
+      }
+      }
+    }
+  }
+}
+//====================================================================================================

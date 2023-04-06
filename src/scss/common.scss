@@ -1,0 +1,222 @@
+// Заголовки, загальні БЕМ блоки та інше...
+.icv__icv--horizontal {
+  @media (max-width:$mobileSmall){
+     margin: 0 -25%; 
+  }
+}
+.language-block {
+  
+  position: relative;
+  &.open {
+    .language-block__list {
+      opacity: 1;
+      visibility: visible;
+      pointer-events: auto;
+      top:  calc(100% + 10px);
+    }
+    .language-block__value {
+      &::after{
+        transform: rotate(180deg);
+      }
+    }
+  }
+  
+  &__value {
+    font-weight: 600;
+    font-size: .875rem;
+    line-height: 17px;
+    color: #292D32;
+    display: inline-flex;
+    align-items: center;
+    cursor: pointer;
+    padding: 10px 8px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    &::after{
+      content:'';
+      display: inline-flex;
+      flex: 0 0 13px;
+      width: 13px;
+      height: 7px;
+      margin-left: 5px;
+      transition: all 0.3s ease 0s;
+      background: url('../img/icons/arrow-language.svg') 0 0 no-repeat;
+    }
+    .icon {
+      margin-right: 5px;
+      height: 16px;
+      width: 16px;
+      svg {
+        width: 16px;
+        height: 16px;
+        
+      }
+      img {
+        width: 16px;
+        height: 16px;
+      }
+    }
+  }
+  &__list {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    opacity: 0;
+    transition: all 0.3s ease 0s;
+    visibility: hidden;
+    pointer-events: none;
+    padding: 12px;
+    background-color: #F5F5F5;
+    box-shadow: 0px 0px 24px rgba(0, 0, 0, 0.16);
+    border-radius: 16px;
+    min-width: 240px;
+    li {
+      margin-bottom: 4px;
+      
+      background-color: #FFFFFF;
+      border-radius: 12px;
+      &:last-child{
+        margin-bottom: 0;
+      }
+      a {
+        display: flex;
+        align-items: center;
+        font-weight: 400;
+        font-size: 1.125rem;
+        line-height: 22px;
+        color: #292D32;
+        padding: 12px;
+        gap: 10px;
+        
+        &.active {
+          &::after{
+            content:'';
+            width: 24px;
+            height: 20px;
+            display: inline-flex;
+            flex: 0 0 24px;
+            margin-left: auto;
+            background: url('../img/icons/checked-language.svg') 0 0 no-repeat;
+          }
+        }
+        .icon {
+          width: 24px;
+          height: 24px;
+          margin-right: 12px;
+          svg {
+            width: 24px;
+            height: 24px;
+
+          }
+        }
+      }
+    }
+  }
+}
+
+.title-h1 {
+  font-weight: 900;
+  @include adaptiveValue("font-size", 70, 26);
+  line-height: 1.2;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.title-h2 {
+  font-weight: 900;
+  @include adaptiveValue("font-size", 58, 26);
+  line-height: 1;
+  color: #292D32;
+  span.green {
+    color: #6BD695;
+  }
+  span.white {
+    color: #fff;
+  }
+}
+
+
+.buttons-downloads {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @media (min-width:$mobile){
+    gap: 12px; 
+  }
+  @media (max-width:$mobile){
+    gap: 8px;
+     flex-direction: column; 
+  }
+  &-button {
+  
+    gap: 10px;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+    transition: all 0.3s ease 0s;
+  
+    min-width: 240px;
+    @media (min-width:$mobile){
+      border-radius: 20px;
+      min-height: 76px;
+      padding: 8px 16px 8px 20px;
+    }
+    @media (max-width:$mobile){
+       min-height: 61px; 
+       border-radius: 12px;
+       padding: 4px 12px 4px 15px;
+    }
+    &:hover{
+      // background-color: darken($color: #fff, $amount: 4);
+      .buttons-downloads-button__text {
+        color: #6BD695;
+      }
+      
+    }
+    &:active{
+      background-color: darken($color: #fff, $amount: 5);
+    }
+
+    &__icon {
+      margin-right: 10px;
+    }
+    &__text {
+      font-weight: 600;
+      font-size: 1.25rem;
+      line-height: 24px;
+      font-feature-settings: 'ss04' on;
+      color: #292D32;
+      transition: all 0.3s ease 0s;
+      @media (max-width:$mobile){
+         font-size: rem(17);
+      }
+
+      span {
+        display: block;
+        font-weight: 600;
+        font-size: 1rem;
+        line-height: 19px;
+        font-feature-settings: 'ss04' on;
+        color: #7D7D88;
+        @media (max-width:$mobile){
+           font-size: rem(13); 
+        }
+      }
+    }
+  }
+}
+
+.messages {
+  &__item {
+    .item {
+      &__body {
+        font-family: 'Amatic SC';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 1.75rem;
+        line-height: 28px;
+        color: #292D32;
+      }
+    }
+  }
+}
