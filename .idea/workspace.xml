@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31aa079a-1438-4c47-8739-a7e56b0352e5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/eng/designs/after-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/eng/designs/before-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/icons/address.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/icons/gov.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/icons/internet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/icons/phone-icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ru/designs/after-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/ru/designs/before-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/uzbk/designs/after-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/uzbk/designs/before-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/forms/datepicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/forms/forms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/forms/inputmask.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/forms/range.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/isotope.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/scroll/gotoblock.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/scroll/lazyload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/scroll/scroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/scroll/simplebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/sliders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/files/tippy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/datepicker-full.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/dynamic_adapt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/fullpage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/parallax-mouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/parallax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/smoothScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/typed.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/wNumb.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/js/libs/watcher.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/_footer.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/_footer.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/html/_header.htm" beforeDir="false" afterPath="$PROJECT_DIR$/src/html/_header.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/hero/hero-image.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/hero/hero-image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/footer/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/footer/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/footer/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/footer/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/hero/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/hero/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/hero/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/hero/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/hero/03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/hero/03.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/hero/04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/hero/04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/hero/05.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/hero/05.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/support/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/support/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/support/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/support/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/transfer/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/transfer/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/eng/messages/transfer/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/eng/messages/transfer/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/flags/rus.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/flags/rus.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/icons/arrow-language.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/icons/arrow-language.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/icons/checked-language.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/icons/checked-language.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/footer/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/footer/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/footer/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/footer/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/hero/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/hero/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/hero/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/hero/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/hero/03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/hero/03.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/hero/04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/hero/04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/hero/05.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/hero/05.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/support/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/support/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/support/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/support/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/transfer/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/transfer/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/ru/messages/transfer/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/ru/messages/transfer/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/transfer/before.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/transfer/before.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/footer/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/footer/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/footer/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/footer/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/hero/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/hero/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/hero/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/hero/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/hero/03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/hero/03.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/hero/04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/hero/04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/hero/05.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/hero/05.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/support/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/support/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/support/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/support/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/transfer/01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/transfer/01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/messages/transfer/02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/messages/transfer/02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/support/iPhone 14 Pro1.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/support/iPhone 14 Pro1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/uzbk/support/андроед.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/uzbk/support/андроед.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/js/files/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/js/files/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page-eng.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/page-eng.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page-uzbk.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/page-uzbk.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/home.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O2nDRUnWz2LUlq18R6yu7L8fIg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/99890/Desktop/tez-pay-weback/src/img/icons",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\99890\Desktop\tez-pay-weback\src\img\icons" />
+      <recent name="C:\Users\99890\Desktop\tez-pay-weback\src" />
+      <recent name="C:\Users\99890\Desktop\tez-pay-weback\src\js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31aa079a-1438-4c47-8739-a7e56b0352e5" name="Changes" comment="" />
+      <created>1680767424452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680767424452</updated>
+      <workItem from="1680767425698" duration="3724000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
